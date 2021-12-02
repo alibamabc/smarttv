@@ -1,0 +1,380 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,UA РџРµСЂС€РёР№ HD РћР±РЅРѕРІР»РµРЅ 22.04.2021 - www.tva.org.ua
+http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
+#EXTINF:-1 ,UA:РџРµСЂС€РёР№ HD
+http://95.67.12.189:10055
+#EXTINF:-1,UA:РџРµСЂС€РёР№
+http://95.67.12.189:10056
+#EXTINF:-1,UA TV 
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 ,UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,1+1
+http://51.68.140.190:8081/tv/1+1/playlist.m3u8
+#EXTINF:-1,1+1 International
+http://109.200.130.124:7003/play/a005
+#EXTINF:-1 ,2+2
+https://185-107-80-245.livesports24.online/ua2plus2.m3u8
+#EXTINF:-1 ,2+2
+https://95-213-224-179.livesports24.online/ua2plus2.m3u8
+#EXTINF:-1, РРќРўР•Р 
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1, Inter
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 ,INTER
+http://51.68.141.106:8081/tv/inter/chunks.m3u8
+#EXTINF:-1,IРЅС‚РµСЂ+
+http://195.49.206.244:90/Inter+/index.m3u8
+#EXTINF:-1,ICTV
+http://51.195.44.53:8081/tv/ictv/playlist.m3u8
+#EXTINF:-1,ICTV РЈРєСЂР°РёРЅР°
+http://46.63.0.9:8001/ictv
+#EXTINF:-1, РќРѕРІС‹Р№ РєР°РЅР°Р»
+http://51.195.44.53:8081/tv/novii-kanal/chunks.m3u8
+#EXTINF:-1,РўР•Рў
+http://51.195.44.53:8081/tv/tet/playlist.m3u8
+#EXTINF:-1,РљРёРµРІ РўР’ 
+https://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv2.sdp/playlist.m3u8
+#EXTINF:-1, Рљ1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1 ,Рљ1 
+http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 ,Рљ1 
+https://edge2.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 ,РќРўРќ
+https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1 ,UKR Live
+http://95.67.12.149:9005
+#EXTINF:-1,Р”РѕРЅР±Р°СЃ Online HD
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1 ,РЈРЅiР°РЅ
+http://78.83.87.222:7777/play/a00i/index.m3u8
+#EXTINF:-1,Р СѓРґР°РЅР° РўР’ (РљСЂРёРІРѕР№ Р РѕРі)
+http://live.rudana.com.ua/hls/stream_HD.m3u8
+#EXTINF:-1,Р СѓРґР°РЅР° РўР’ HD
+http://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1 ,100 News (РћРґРµСЃСЃР°)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 ,Akadem TV (РЎСѓРјРё)
+http://178.20.154.64:8888/atv
+#EXTINF:-1 ,РђРІРµСЂСЃ (Р›СѓС†СЊРє)
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 ,Р“Р РћРњРђР”РЎР¬РљР• Р†РќРўР•Р РђРљРўРР’РќР• РўР•Р›Р•Р‘РђР§Р•РќРќРЇ (Р›СѓС†СЊРє)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 ,РР Рў (Р”РЅРµРїСЂ)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1,РџСЂСЏРјС‹Р№ 
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,РџСЂР°РІРґР° РўРЈРў
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,РџСЂР°РІРґР° РўРЈРў HD (РљРёРµРІ)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,РџСЂР°РІРґР° РўРЈРў Р›СЊРІРѕРІ HD
+http://95.67.12.158:8034
+#EXTINF:-1,РџРµСЂРІС‹Р№ Р”РµР»РѕРІРѕР№
+http://95.67.127.154/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1,1 РќРµР·Р°Р»РµР¶РЅРёР№ HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,UA РљСѓР»СЊС‚СѓСЂР°
+http://95.67.21.26/hls/ua-culture_ua_mid/index.m3u8
+#EXTINF:-1 ,РњiСЃС‚Рѕ РїР»СЋСЃ
+http://93.78.206.172:8080/stream4/stream.m3u8
+#EXTINF:-1,Рњ1
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1,Рњ1 r
+http://163.172.71.147:8080/m1/mpegts
+#EXTINF:-1,Рњ2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,OBOZ TV
+http://player.obozrevatel.com/live2/stream.m3u8
+#EXTINF:-1,OBOZ TV HD
+https://player.obozrevatel.com/live3/stream.m3u8
+#EXTINF:-1, РќР°РґРёСЏ/N.K.
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1,РћРўР’ Р”РЅРµРїСЂ
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1,РР Рў (Р”РЅРµРїСЂ)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1,Nobel TV (Р”РЅРµРїСЂ)
+http://159.224.232.27:1234
+#EXTINF:-1,Р СѓРґР°РЅР° (РљСЂРёРІРѕР№ Р РѕРі)
+http://134.249.128.243/hls/stream.m3u8
+#EXTINF:-1,Р СѓРґР°РЅР° HD (РљСЂРёРІРѕР№ Р РѕРі)
+http://134.249.128.243/hls/stream_FHD.m3u8
+#EXTINF:-1,РџРµСЂРІС‹Р№ РіРѕСЂРѕРґСЃРєРѕР№ РљСЂРёРІРѕР№ Р РѕРі
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 ,РўР†Рњ РџСЂРёР»СѓРєРё
+http://194.242.100.24:6666
+#EXTINF:-1,РЎРјС–Р»Р°-РўР’ HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1,Р”РѕРЅРµС‡С‡РёРЅР° TV
+https://stream.dn.ua/hls/stream.m3u8
+#EXTINF:-1,Simon TV
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1,4 РєР°РЅР°Р» РЈРєСЂР°С—РЅР°
+http://78.83.87.222:7777/play/a01i/index.m3u8
+#EXTINF:-1,34 РєР°РЅР°Р»
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1,РўРµСЂРЅРѕРїРѕР»СЊ 1
+http://185.53.79.12/ternopil1/index.m3u8
+#EXTINF:-1,РўРµСЂРЅРѕРїiР»СЊ 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1,РЎРёРіРјР° РўР’ (РњР°СЂРёСѓРїРѕР»СЊ)
+https://streamvideol.luxnet.ua/sigmatv/sigmatv.stream/playlist.m3u8
+#EXTINF:-1,РўР’Рђ tva.org.ua
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,TV5 (Р—Р°РїРѕСЂС–Р¶Р¶СЏ)
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:-1,РћРўР’
+rtmp://91.193.128.233:1935/live//otv.stream_576p
+#EXTINF:-1 ,33 РєР°РЅР°Р» (РҐРјРµР»СЊРЅРёС†РєРёР№)
+https://33tv.ml/33chanel/live/index.m3u8
+#EXTINF:-1,TV7 Plus (РҐРјРµР»СЊРЅРёС†СЊРєРёР№)
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1,Рђ1
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1,Рђ1 РћРґРµСЃСЃР°
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr-lq/playlist.m3u8
+#EXTINF:-1,Рђ1 РћРґРµСЃСЃР° HD
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1,7 РєР°РЅР°Р» РћРґРµСЃСЃР° HD
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
+#EXTINF:-1,7 РєР°РЅР°Р»
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,TV8 РћРґРµСЃСЃР°
+http://cdn10.live-tv.od.ua:8081/stvod/stvod-abr-lq/playlist.m3u8
+#EXTINF:-1,TV8 РћРґРµСЃСЃР° HD
+http://cdn10.live-tv.od.ua:8081/stvod/stvod-abr/playlist.m3u8
+#EXTINF:-1,РђРєР°РґРµРјРёСЏ РўР’ (РћРґРµСЃСЃР°)
+http://cdn10.live-tv.od.ua:8081/36chod/36chod-abr-lq/playlist.m3u8
+#EXTINF:-1,РђРєР°РґРµРјРёСЏ РўР’ HD
+http://cdn10.live-tv.od.ua:8081/36chod/36chod/playlist.m3u8
+#EXTINF:-1,РўРљ РћРґРµСЃСЃР°
+http://cdn1.live-tv.od.ua:8081/riood/riood/playlist.m3u8
+#EXTINF:-1,РћРґРµСЃСЃР° int.
+http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1,Р®Р¶РЅР°СЏ Р’РѕР»РЅР° РўР’
+http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
+#EXTINF:-1,РўР†РЎ 
+http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
+#EXTINF:-1 ,РўIРЎ (РћРґРµСЃСЃР°)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1,РћРґРµСЃСЃР° LIFE TV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1,РћРґРµСЃСЃР° LIFE TV HD 
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1,РўСЂРµС‚РёР№ Р¦РёС„СЂРѕРІРѕР№ (РћРґРµСЃСЃР°)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1,РўСЂРµС‚РёР№ С†РёС„СЂРѕРІРѕР№
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1,Р РµРїРѕСЂС‚РµСЂ (РћРґРµСЃСЃР°)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1,Р РµРїРѕСЂС‚РµСЂ r(РћРґРµСЃСЃР°)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr-lq/playlist.m3u8
+#EXTINF:-1,Р РµРїРѕСЂС‚РµСЂ HD
+http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8
+#EXTINF:-1,РџРµСЂРІС‹Р№ Р“РѕСЂРѕРґСЃРєРѕР№ HD (РћРґРµСЃСЃР°)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,РџРµСЂРІС‹Р№ Р“РѕСЂРѕРґСЃРєРѕР№ (РћРґРµСЃСЃР°)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1 ,City TV (РћРґРµСЃСЃР°)
+http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/a1od/citytvod/chunks.m3u8
+#EXTINF:-1,РџР»СЋСЃ (РћРґРµСЃСЃР°)
+http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
+#EXTINF:-1,РњРѕСЏ РћРґРµСЃСЃР° РўР’
+http://cdn1.live-tv.od.ua:8081/31chod/31chplusod-abr/playlist.m3u8
+#EXTINF:-1,РњРµРґРёР° РРЅС„РѕСЂРј (РћРґРµСЃСЃР°)
+http://91.194.79.124:8081/MediaInform/SD/chunks.m3u8
+#EXTINF:-1,РњРµРґРёР° РРЅС„РѕСЂРј HD
+http://91.194.79.124:8081/MediaInformHD/HD/chunks.m3u8
+#EXTINF:-1,Odessa Fashion TV
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:-1,РђР»РµРєСЃ
+rtmp://46.46.112.223/live/livestream2
+#EXTINF:-1 ,РҐРµСЂСЃРѕРЅ 
+https://webcams.ks.ua/hls/khersonplus.m3u8
+#EXTINF:-1 , UA РҐРµСЂСЃРѕРЅ
+https://webcams.ks.ua/hls/skifija.m3u8
+#EXTINF:-1,РҐРµСЂСЃРѕРЅ 1
+http://193.107.128.8:8552/play/a016
+#EXTINF:-1,РҐРµСЂСЃРѕРЅ 2
+http://iptv.rubintele.com:8552/play/a001
+#EXTINF:-1 ,РўР’Р†Р™ РџР›Р®РЎ
+https://webcams.ks.ua/hls/tviyplus.m3u8
+#EXTINF:-1,Р’РўР’ РџР»СЋСЃ
+rtmp://live.vtvplus.com.ua/live/online
+#EXTINF:-1, РЇРўР‘
+http://46.175.163.130/live_yatb/playlist.m3u8
+#EXTINF:-1,ZTV (Р—Р°РїРѕСЂРѕР¶СЊРµ)
+http://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,ZTV r(Р—Р°РїРѕСЂРѕР¶СЊРµ)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,РРў3 (Р§РµСЂРЅРѕРјРѕСЂСЃРє)
+http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr-lq/playlist.m3u8
+#EXTINF:-1,РРў3 HD
+http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr/playlist.m3u8
+#EXTINF:-1,РќРўРђ (Р›СЊРІРѕРІ)
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:-1,РќРўРђ HD
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr/playlist.m3u8
+#EXTINF:-1,Рњ РЎС‚СѓРґРёРѕ
+http://213.174.23.59:8080/MS
+#EXTINF:-1,РќР°РґРёСЏ РўР’
+rtmp://stream.hope.ua/hopeua/live_1
+#EXTINF:-1,Most Video
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1, Р†РЅС€РёР№
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1,Р†РЅС€РёР№
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1,РўР Рљ Р РµРїРѕСЂС‚РµСЂ РћРґРµСЃСЃР°
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8
+#EXTINF:-1,Р”СѓРјСЃРєР°СЏ РўР’
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1,Р”РѕРЅРµС‡С‡РёРЅР° РўР’ (РљСЂР°РјР°С‚РѕСЂСЃРє)
+https://stream.dn.ua/hls/stream.m3u8
+#EXTINF:-1,Р—РґРѕСЂРѕРІСЊРµ
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1,Bambarbia TV tva.in.ua
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:-1,РЎРљ1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1,РЎРљ1 (Р–РёС‚РѕРјРёСЂ)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1,РЎРљ1 HD
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:-1,KRATU
+http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
+#EXTINF:-1 ,KRATU r
+https://webcams.ks.ua/hls/kratu.m3u8
+#EXTINF:-1,РР·РјР°РёР» РўР’
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1, РўР Рљ РљСЂСѓРі
+http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
+#EXTINF:-1,РўР Рљ РљСЂСѓРі
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1, ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,Prime Time
+http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
+#EXTINF:-1,РћРќРў
+http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
+#EXTINF:-1,PРµРЅРѕРјРµ
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,Р‘Р°Р»С‚Р° РўР’ HD
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1,РЎРјiР»Р° РўР’ HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1,Р§РµСЂРЅРѕРІРёС†РєРёР№ РџСЂРѕРјРёРЅСЊ HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1,Р§РµСЂРЅРѕРІС†С‹ РўР’
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1,РўР’ Р‘РµСЂРґСЏРЅСЃРє
+https://video.onet.zp.ua/TV_Berdyansk/index.m3u8
+#EXTINF:-1,РўР Рљ Р®Рі (Р‘РµСЂРґСЏРЅСЃРє)
+https://video.onet.zp.ua/TV_UG/tracks-v1a1/index.m3u8
+#EXTINF:-1,РўРІРѕР№ РџР»СЋСЃ
+https://tviyplus.normatv.ks.ua:8082/web/tviy_plus_4/playlist.m3u8
+#EXTINF:-1,РўРІРѕР№ РџР»СЋСЃ
+http://iptv.rubintele.com:8552/play/a003
+#EXTINF:-1,РўРІРѕР№ РџР»СЋСЃ
+https://webcams.ks.ua/hls/tviyplus.m3u8
+#EXTINF:-1,РЈРўР’ (РћРґРµСЃСЃР°)
+http://46.149.48.13:2000
+#EXTINF:-1,РўР’-Р”РѕРј
+http://46.149.48.21:1234
+#EXTINF:-1,РўР’-Р”РѕРј (РћРґРµСЃСЃР°)
+http://78.26.128.21:8081/stream.flv
+#EXTINF:-1,РЎРІР°СЂРѕР¶РёС‡Рё РўР’ UA HD
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,РЎРІР°СЂРѕР¶РёС‡Рё РўР’
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,РћСЂР±РёС‚Р° UA
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 ,РќРўРљ
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 ,РќРўРђ HD (Р›СЊРІС–РІ)
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 ,РџРµСЂРІС‹Р№ Р“РѕСЂРѕРґСЃРєРѕР№ (РљСЂРёРІРѕР№ Р РѕРі)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1,21 РєР°РЅР°Р» РЈР¶РіРѕСЂРѕРґ
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:-1,ITV (Р РѕРІРЅРѕ)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1,ITV HD
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1,РџРµСЂС€РёР№ РљРѕР·Р°С†СЊРєРёР№
+http://193.111.1.153:8080/hls/stream1kozaktv.m3u8
+#EXTINF:-1,РўР Рљ Р РђI (РРІР°РЅРѕ-Р¤СЂР°РЅРєРѕРІСЃРє)
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 , Kino 24.
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 ,Skrypin UA
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 ,Р§Рџ РРќР¤Рћ
+http://109.68.41.148:1935/live/magnolia_2/playlist.m3u8
+#EXTINF:-1 ,Р§Рџ РРЅС„Рѕ 2
+http://edge1.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+#EXTINF:-1 ,Р‘Р°Р»С‚Р° РўР’
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 ,РўСЂРѕС„РµР№
+http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1, Р¤Р°РЅ РЎРїРѕСЂС‚.
+https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1, Р¤Р°РЅ РЎРїРѕСЂС‚ 2.
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 ,XSPORT HD
+http://95.67.12.117:10001
+#EXTINF:-1,Р Р°РґР° РўР’
+https://rada-rtmp.adamant.net/hls/rada.m3u8
+#EXTINF:-1,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,Р“LAS
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1,Р“Р»Р°СЃ
+https://glas.org.ua/hls/glassru.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РћР»РµС€РєРё (Р Р°Р·РІСЏР·РєР°)
+https://webcams.ks.ua/hls/ch0024.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РњРѕСЃС‚РѕРїРµСЂРµС…РѕРґ (РїСЂ. РђРґРјС–СЂР°Р»Р° РЎРµРЅСЏРІС–РЅР° - РІСѓР». Р—Р°Р»Р°РµРіРµСЂСЃРµРі)
+https://webcams.ks.ua/hls/ch0122.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",Р–РµР»РµР·РЅС‹Р№ РџРѕСЂС‚ Р’РёРґ РЅР° РїР»СЏР¶, РїР°РЅСЃРёРѕРЅР°С‚ Dolce-Vita
+https://webcams.ks.ua/hls/ch0006.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РїРіС‚. Р‘РµР»РѕР·РµСЂРєР° Р¦РµРЅС‚СЂ
+https://webcams.ks.ua/hls/ch0072.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РҐРµСЂСЃРѕРЅ РїСЂ. РЈС€Р°РєРѕРІР°
+https://webcams.ks.ua/hls/ch0001.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РҐРµСЂСЃРѕРЅ СѓР». РЎСѓРІРѕСЂРѕРІР°
+https://webcams.ks.ua/hls/ch0002.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РҐРµСЂСЃРѕРЅ РќР°Р±РµСЂРµР¶РЅР°СЏ РЈС€Р°РєРѕРІР°
+https://webcams.ks.ua/hls/ch0003.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РҐРµСЂСЃРѕРЅ РўР°РІСЂРёС‡РµСЃРєРёР№ РїР». 40-Р»РµС‚РёСЏ РџРѕР±РµРґС‹
+https://webcams.ks.ua/hls/ch0004.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РҐРµСЂСЃРѕРЅ РїР». РёРј. РџР°РІР»Р° Р”СѓР±РёРЅРґС‹
+https://webcams.ks.ua/hls/ch0019.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РҐРµСЂСЃРѕРЅ Р‘РѕС‚Р°РЅРёС‡РµСЃРєРёР№ РЎР°Рґ
+https://webcams.ks.ua/hls/ch0038.m3u8
+#EXTINF:-1 group-title="РљР°РјРµСЂС‹ РҐРµСЂСЃРѕРЅС‰РёРЅС‹",РҐРµСЂСЃРѕРЅ Р“Р’Рљ С‚СЂ. Рњ14 РћРґРµСЃСЃР° -РњРµР»С–С‚РѕРїР»СЊ РєР°Рј. в„–2
+https://webcams.ks.ua/hls/ch0088.m3u8
+#EXTINF:-1 group-title="Р РђР”РРћ",РђРІС‚РѕСЂР°РґРёРѕ (РЈРєСЂР°РёРЅР°)
+https://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8
+#EXTINF:-1 group-title="Р РђР”РРћ",Р Р°РґРёРѕ Energy (РЈРєСЂР°РёРЅР°)
+https://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
+#EXTINF:-1 group-title="Р РђР”РРћ",Р Р°РґРёРѕ Kiss FM
+http://tavr.web-event.com.ua/kiss/kiss/chunklist.m3u8
+#EXTINF:-1 group-title="Р РђР”РРћ",Р Р°РґРёРѕ РђСЂРјРёСЏ FM
+http://212.26.129.4/hls/armyfm.m3u8
+#EXTINF:-1 group-title="Р РђР”РРћ",Р Р°РґРёРѕ Р”Р¶РµРј FM (РЈРєСЂР°РёРЅР°)
+https://rtmp.radiogroup.com.ua:8080/live/jam/index.m3u8
+#EXTINF:-1 group-title="Р РђР”РРћ",Р Р°РґРёРѕ РљСЂРёРІР±Р°СЃ FM
+http://cdn10.live-tv.od.ua:8081/radio/kryvbasfm/icecast.audio
+#EXTINF:-1 group-title="Р РђР”РРћ",Р Р°РґРёРѕ Р›СЋРєСЃ FM
+https://streamvideol1.luxnet.ua/lux/lux.stream/playlist.m3u8
+#EXTINF:-1 group-title="Р РђР”РРћ",Р Р°РґРёРѕ Р›СЋРєСЃ FM (WEB)
+http://streamvideol1.luxnet.ua/luxstudio/luxstudio.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Р РђР”РРћ",Р Р°РґРёРѕ Р›СЋРєСЃ FM (Р›СЊРІРѕРІ)
+https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Р РђР”РРћ",Р Р°РґРёРѕ 10 (Р§РµСЂРЅРѕРІС†С‹)
+http://langate.tv/acc/tracks-v1/index.m3u8
